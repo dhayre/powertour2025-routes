@@ -2,7 +2,7 @@
 
 Pre-programmed waypoints for importing into navigation devices or software
 
-## Supported devices:
+## Recommended devices:
 **Garmin DriveSmart 66**
 
 **Garmin DriveSmart 76**
