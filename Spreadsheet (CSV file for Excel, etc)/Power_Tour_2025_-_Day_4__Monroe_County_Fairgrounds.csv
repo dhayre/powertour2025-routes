@@ -1,0 +1,8 @@
+"From","From Address","To","To Address","Departure Date","Departure Time","Arrival Date","Arrival Time","Driving Time","Distance","Total Driving Time","Total Distance","Notes"
+"Gate 1","Fort Wayne, IN","Right on US-27N / Lima Rd","Lima Road, Fort Wayne, IN","2025-06-12","10:00","2025-06-12","10:02","2m","1.6","2m","1.6",""
+"Right on US-27N / Lima Rd","Lima Road, Fort Wayne, IN","Left on US-6 W / W North St","South Lima Road, Kendallville, IN","2025-06-12","11:02","2025-06-12","11:32","29m","25.5","32m","27.1",""
+"Left on US-6 W / W North St","South Lima Road, Kendallville, IN","Right on IN-9 North","SR 9, Orange, IN","2025-06-12","12:32","2025-06-12","12:37","5m","4.6","37m","31.7",""
+"Right on IN-9 North","SR 9, Orange, IN","Right on US-12E / East Chicago Road","704 West Chicago Road, Sturgis, MI","2025-06-12","13:37","2025-06-12","14:09","32m","25.1","1h 9m","56.8",""
+"Right on US-12E / East Chicago Road","704 West Chicago Road, Sturgis, MI","Turn right on M50","Cambridge, MI","2025-06-12","15:09","2025-06-12","16:28","1h 18m","68.2","2h 28m","125.0",""
+"Turn right on M50","Cambridge, MI","Turn right onto Fairgrounds Drive","Monroe, MI","2025-06-12","17:28","2025-06-12","18:19","50m","41.0","3h 19m","166.0",""
+"Turn right onto Fairgrounds Drive","Monroe, MI","Monroe County Fairgrounds","Monroe, MI","2025-06-12","19:19","2025-06-12","19:20","","0.0","3h 19m","166.0",""

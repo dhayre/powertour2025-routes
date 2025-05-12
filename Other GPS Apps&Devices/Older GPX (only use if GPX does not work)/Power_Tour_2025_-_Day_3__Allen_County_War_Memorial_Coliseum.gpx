@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://furkot.com/" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Power Tour 2025 - Day 3 | Allen County War Memorial Coliseum</name>
+    <author>
+      <name>Furkot - road trip planner</name>
+      <email id="trips" domain="furkot.com"></email>
+      <link href="https://trips.furkot.com">
+        <text>Furkot</text>
+      </link>
+    </author>
+  </metadata>
+  <wpt lat="41.459288" lon="-88.079154">
+    <time>2025-06-11T14:00:00.000Z</time>
+    <name>Rt 66 Raceway - Gate 11</name>
+    <cmt>South Chicago Street, Jackson, IL</cmt>
+    <desc>South Chicago Street, Jackson, IL</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="41.429942" lon="-88.078742">
+    <time>2025-06-11T14:02:24.000Z</time>
+    <name>Left on Manhattan/Arsenal Rd</name>
+    <cmt>IL 53, Jackson, IL</cmt>
+    <desc>IL 53, Jackson, IL</desc>
+  </wpt>
+  <wpt lat="41.431774" lon="-87.995772">
+    <time>2025-06-11T15:07:22.000Z</time>
+    <name>Turn right on US-52E/W North St</name>
+    <cmt>Manhattan, IL</cmt>
+    <desc>Manhattan, IL</desc>
+  </wpt>
+  <wpt lat="41.352673" lon="-87.882172">
+    <time>2025-06-11T16:19:48.000Z</time>
+    <name>Right on US-45S/US-52E</name>
+    <cmt>West Joliet Road, Peotone, IL</cmt>
+    <desc>West Joliet Road, Peotone, IL</desc>
+  </wpt>
+  <wpt lat="41.294670" lon="-87.879746">
+    <time>2025-06-11T17:24:11.000Z</time>
+    <name>Right on E 12000N Rd</name>
+    <cmt>Manteno, IL</cmt>
+    <desc>Manteno, IL</desc>
+  </wpt>
+  <wpt lat="41.298063" lon="-87.526717">
+    <time>2025-06-11T18:44:11.000Z</time>
+    <name>Right on N 18000E Rd / Stateline Rd</name>
+    <cmt>West Creek, IN</cmt>
+    <desc>West Creek, IN</desc>
+  </wpt>
+  <wpt lat="41.283008" lon="-87.526722">
+    <time>2025-06-11T19:45:46.000Z</time>
+    <name>Left onto 185th Ave</name>
+    <cmt>Yellowhead, IL</cmt>
+    <desc>Yellowhead, IL</desc>
+  </wpt>
+  <wpt lat="41.282714" lon="-87.468305">
+    <time>2025-06-11T20:54:20.000Z</time>
+    <name>Left on US-41N</name>
+    <cmt>West Creek, IN</cmt>
+    <desc>West Creek, IN</desc>
+  </wpt>
+  <wpt lat="41.289990" lon="-87.468231">
+    <time>2025-06-11T21:55:18.000Z</time>
+    <name>Right on West 181st Ave/IN-2</name>
+    <cmt>Wicker Avenue, West Creek, IN</cmt>
+    <desc>Wicker Avenue, West Creek, IN</desc>
+  </wpt>
+  <wpt lat="41.289282" lon="-87.199561">
+    <time>2025-06-11T23:13:20.000Z</time>
+    <name>Left on US-231 North</name>
+    <cmt>West 1014 South, Boone, IN</cmt>
+    <desc>West 1014 South, Boone, IN</desc>
+  </wpt>
+  <wpt lat="41.318595" lon="-87.199965">
+    <time>2025-06-12T00:16:03.000Z</time>
+    <name>Right on E Sigler St/IN-8 East</name>
+    <cmt>Hebron, IN</cmt>
+    <desc>Hebron, IN</desc>
+  </wpt>
+  <wpt lat="41.317359" lon="-86.891440">
+    <time>2025-06-12T01:34:51.000Z</time>
+    <name>Left on US-421 North</name>
+    <cmt>West Main Street, La Crosse, IN</cmt>
+    <desc>West Main Street, La Crosse, IN</desc>
+  </wpt>
+  <wpt lat="41.433813" lon="-86.891216">
+    <time>2025-06-12T02:44:17.000Z</time>
+    <name>Right on Lincoln Highway / US-30E</name>
+    <cmt>10011 West US Highway 30, Wanatah, IN</cmt>
+    <desc>10011 West US Highway 30, Wanatah, IN</desc>
+  </wpt>
+  <wpt lat="41.117719" lon="-85.181559">
+    <time>2025-06-12T06:09:23.000Z</time>
+    <name>Left on West Coliseum Blvd</name>
+    <cmt>West Coliseum Boulevard, Fort Wayne, IN</cmt>
+    <desc>West Coliseum Boulevard, Fort Wayne, IN</desc>
+  </wpt>
+  <wpt lat="41.115170" lon="-85.122756">
+    <time>2025-06-12T07:15:20.000Z</time>
+    <name>Turn right into Gate 1 - Allen Co War Mem Coliseum</name>
+    <cmt>4000 Parnell Avenue, Fort Wayne, IN</cmt>
+    <desc>4000 Parnell Avenue, Fort Wayne, IN</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <rte>
+    <name>Power Tour 2025 - Day 3 | Allen County War Memorial Coliseum</name>
+    <rtept lat="41.459288" lon="-88.079154">
+      <time>2025-06-11T14:00:00.000Z</time>
+      <name>Rt 66 Raceway - Gate 11</name>
+      <cmt>South Chicago Street, Jackson, IL</cmt>
+      <desc>South Chicago Street, Jackson, IL</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="41.429942" lon="-88.078742">
+      <time>2025-06-11T14:02:24.000Z</time>
+      <name>Left on Manhattan/Arsenal Rd</name>
+      <cmt>IL 53, Jackson, IL</cmt>
+      <desc>IL 53, Jackson, IL</desc>
+    </rtept>
+    <rtept lat="41.431774" lon="-87.995772">
+      <time>2025-06-11T15:07:22.000Z</time>
+      <name>Turn right on US-52E/W North St</name>
+      <cmt>Manhattan, IL</cmt>
+      <desc>Manhattan, IL</desc>
+    </rtept>
+    <rtept lat="41.352673" lon="-87.882172">
+      <time>2025-06-11T16:19:48.000Z</time>
+      <name>Right on US-45S/US-52E</name>
+      <cmt>West Joliet Road, Peotone, IL</cmt>
+      <desc>West Joliet Road, Peotone, IL</desc>
+    </rtept>
+    <rtept lat="41.294670" lon="-87.879746">
+      <time>2025-06-11T17:24:11.000Z</time>
+      <name>Right on E 12000N Rd</name>
+      <cmt>Manteno, IL</cmt>
+      <desc>Manteno, IL</desc>
+    </rtept>
+    <rtept lat="41.298063" lon="-87.526717">
+      <time>2025-06-11T18:44:11.000Z</time>
+      <name>Right on N 18000E Rd / Stateline Rd</name>
+      <cmt>West Creek, IN</cmt>
+      <desc>West Creek, IN</desc>
+    </rtept>
+    <rtept lat="41.283008" lon="-87.526722">
+      <time>2025-06-11T19:45:46.000Z</time>
+      <name>Left onto 185th Ave</name>
+      <cmt>Yellowhead, IL</cmt>
+      <desc>Yellowhead, IL</desc>
+    </rtept>
+    <rtept lat="41.282714" lon="-87.468305">
+      <time>2025-06-11T20:54:20.000Z</time>
+      <name>Left on US-41N</name>
+      <cmt>West Creek, IN</cmt>
+      <desc>West Creek, IN</desc>
+    </rtept>
+    <rtept lat="41.289990" lon="-87.468231">
+      <time>2025-06-11T21:55:18.000Z</time>
+      <name>Right on West 181st Ave/IN-2</name>
+      <cmt>Wicker Avenue, West Creek, IN</cmt>
+      <desc>Wicker Avenue, West Creek, IN</desc>
+    </rtept>
+    <rtept lat="41.289282" lon="-87.199561">
+      <time>2025-06-11T23:13:20.000Z</time>
+      <name>Left on US-231 North</name>
+      <cmt>West 1014 South, Boone, IN</cmt>
+      <desc>West 1014 South, Boone, IN</desc>
+    </rtept>
+    <rtept lat="41.318595" lon="-87.199965">
+      <time>2025-06-12T00:16:03.000Z</time>
+      <name>Right on E Sigler St/IN-8 East</name>
+      <cmt>Hebron, IN</cmt>
+      <desc>Hebron, IN</desc>
+    </rtept>
+    <rtept lat="41.317359" lon="-86.891440">
+      <time>2025-06-12T01:34:51.000Z</time>
+      <name>Left on US-421 North</name>
+      <cmt>West Main Street, La Crosse, IN</cmt>
+      <desc>West Main Street, La Crosse, IN</desc>
+    </rtept>
+    <rtept lat="41.433813" lon="-86.891216">
+      <time>2025-06-12T02:44:17.000Z</time>
+      <name>Right on Lincoln Highway / US-30E</name>
+      <cmt>10011 West US Highway 30, Wanatah, IN</cmt>
+      <desc>10011 West US Highway 30, Wanatah, IN</desc>
+    </rtept>
+    <rtept lat="41.117719" lon="-85.181559">
+      <time>2025-06-12T06:09:23.000Z</time>
+      <name>Left on West Coliseum Blvd</name>
+      <cmt>West Coliseum Boulevard, Fort Wayne, IN</cmt>
+      <desc>West Coliseum Boulevard, Fort Wayne, IN</desc>
+    </rtept>
+    <rtept lat="41.115170" lon="-85.122756">
+      <time>2025-06-12T07:15:20.000Z</time>
+      <name>Turn right into Gate 1 - Allen Co War Mem Coliseum</name>
+      <cmt>4000 Parnell Avenue, Fort Wayne, IN</cmt>
+      <desc>4000 Parnell Avenue, Fort Wayne, IN</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+  </rte>
+  <trk>
+  </trk>
+</gpx>

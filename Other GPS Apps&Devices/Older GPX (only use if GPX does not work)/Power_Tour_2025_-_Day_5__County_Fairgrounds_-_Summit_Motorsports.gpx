@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://furkot.com/" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Power Tour 2025 - Day 5 | County Fairgrounds - Summit Motorsports Park</name>
+    <author>
+      <name>Furkot - road trip planner</name>
+      <email id="trips" domain="furkot.com"></email>
+      <link href="https://trips.furkot.com">
+        <text>Furkot</text>
+      </link>
+    </author>
+  </metadata>
+  <wpt lat="41.930646" lon="-83.461605">
+    <time>2025-06-13T13:00:00.000Z</time>
+    <name>Monroe County Fairgrounds</name>
+    <cmt>Monroe, MI</cmt>
+    <desc>Monroe, MI</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="41.698408" lon="-83.548286">
+    <time>2025-06-13T13:24:47.000Z</time>
+    <name>Left on Lagrange Street</name>
+    <cmt>Toledo, OH</cmt>
+    <desc>Toledo, OH</desc>
+  </wpt>
+  <wpt lat="41.636629" lon="-83.491467">
+    <time>2025-06-13T13:37:14.000Z</time>
+    <name>Left on Navarre Avenue</name>
+    <cmt>Dearborn Avenue, Oregon, OH</cmt>
+    <desc>Dearborn Avenue, Oregon, OH</desc>
+  </wpt>
+  <wpt lat="41.397634" lon="-82.370028">
+    <time>2025-06-13T14:52:19.000Z</time>
+    <name>Exit 156 towards OH-60</name>
+    <cmt>Sassafras Drive, Vermilion, OH</cmt>
+    <desc>Sassafras Drive, Vermilion, OH</desc>
+  </wpt>
+  <wpt lat="41.396061" lon="-82.364739">
+    <time>2025-06-13T14:57:54.000Z</time>
+    <name>Right onto OH-60 South</name>
+    <cmt>Vermilion, OH</cmt>
+    <desc>Vermilion, OH</desc>
+  </wpt>
+  <wpt lat="41.238977" lon="-82.545752">
+    <time>2025-06-13T15:31:48.000Z</time>
+    <name>Summit Motorsports Park</name>
+    <cmt>Norwalk, OH</cmt>
+    <desc>Norwalk, OH</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <rte>
+    <name>Power Tour 2025 - Day 5 | County Fairgrounds - Summit Motorsports Park</name>
+    <rtept lat="41.930646" lon="-83.461605">
+      <time>2025-06-13T13:00:00.000Z</time>
+      <name>Monroe County Fairgrounds</name>
+      <cmt>Monroe, MI</cmt>
+      <desc>Monroe, MI</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="41.698408" lon="-83.548286">
+      <time>2025-06-13T13:24:47.000Z</time>
+      <name>Left on Lagrange Street</name>
+      <cmt>Toledo, OH</cmt>
+      <desc>Toledo, OH</desc>
+    </rtept>
+    <rtept lat="41.636629" lon="-83.491467">
+      <time>2025-06-13T13:37:14.000Z</time>
+      <name>Left on Navarre Avenue</name>
+      <cmt>Dearborn Avenue, Oregon, OH</cmt>
+      <desc>Dearborn Avenue, Oregon, OH</desc>
+    </rtept>
+    <rtept lat="41.397634" lon="-82.370028">
+      <time>2025-06-13T14:52:19.000Z</time>
+      <name>Exit 156 towards OH-60</name>
+      <cmt>Sassafras Drive, Vermilion, OH</cmt>
+      <desc>Sassafras Drive, Vermilion, OH</desc>
+    </rtept>
+    <rtept lat="41.396061" lon="-82.364739">
+      <time>2025-06-13T14:57:54.000Z</time>
+      <name>Right onto OH-60 South</name>
+      <cmt>Vermilion, OH</cmt>
+      <desc>Vermilion, OH</desc>
+    </rtept>
+    <rtept lat="41.254796" lon="-82.397406">
+      <time>2025-06-13T15:19:42.000Z</time>
+      <name>Right onto US-20 W / E Main St</name>
+      <cmt>East Main Street, Wakeman, OH</cmt>
+      <desc>East Main Street, Wakeman, OH</desc>
+    </rtept>
+    <rtept lat="41.238977" lon="-82.545752">
+      <time>2025-06-13T15:31:48.000Z</time>
+      <name>Summit Motorsports Park</name>
+      <cmt>Norwalk, OH</cmt>
+      <desc>Norwalk, OH</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+  </rte>
+  <trk>
+  </trk>
+</gpx>

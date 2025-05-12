@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Power Tour 2025 - Day 4 | Monroe County Fairgrounds</name>
+    <Placemark>
+      <name>Gate 1</name>
+      <address>Fort Wayne, IN</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+        <Data name="icon">
+          <value>18</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-85.122124,41.116309</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Right on US-27N / Lima Rd</name>
+      <address>Lima Road, Fort Wayne, IN</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-85.149050,41.118000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Left on US-6 W / W North St</name>
+      <address>South Lima Road, Kendallville, IN</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-85.282300,41.452158</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Right on IN-9 North</name>
+      <address>SR 9, Orange, IN</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-85.370634,41.453114</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Right on US-12E / East Chicago Road</name>
+      <address>704 West Chicago Road, Sturgis, MI</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-85.428431,41.797982</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Turn right on M50</name>
+      <address>Cambridge, MI</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-84.220612,42.059171</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Turn right onto Fairgrounds Drive</name>
+      <address>Monroe, MI</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-83.457592,41.930071</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Monroe County Fairgrounds</name>
+      <address>Monroe, MI</address>
+      <ExtendedData>
+        <Data name="icon">
+          <value>19</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-83.457904,41.929840</coordinates>
+      </Point>
+    </Placemark>
+    <Folder>
+      <name>routes</name>
+      <Placemark>
+        <name>Power Tour 2025 - Day 4 | Monroe County Fairgrounds</name>
+        <LineString>
+          <coordinates>-85.122124,41.116309 -85.149050,41.118000 -85.282300,41.452158 -85.370634,41.453114 -85.428431,41.797982 -84.220612,42.059171 -83.457592,41.930071 -83.457904,41.929840</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>tracks</name>
+      <Placemark>
+        <LineString>
+          <coordinates></coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

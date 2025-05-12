@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://furkot.com/" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Power Tour 2025 - Day 4 | Monroe County Fairgrounds</name>
+    <author>
+      <name>Furkot - road trip planner</name>
+      <email id="trips" domain="furkot.com"></email>
+      <link href="https://trips.furkot.com">
+        <text>Furkot</text>
+      </link>
+    </author>
+  </metadata>
+  <wpt lat="41.116309" lon="-85.122124">
+    <time>2025-06-12T13:00:00.000Z</time>
+    <name>Gate 1</name>
+    <cmt>Fort Wayne, IN</cmt>
+    <desc>Fort Wayne, IN</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="41.118000" lon="-85.149050">
+    <time>2025-06-12T14:02:53.000Z</time>
+    <name>Right on US-27N / Lima Rd</name>
+    <cmt>Lima Road, Fort Wayne, IN</cmt>
+    <desc>Lima Road, Fort Wayne, IN</desc>
+  </wpt>
+  <wpt lat="41.452158" lon="-85.282300">
+    <time>2025-06-12T15:32:04.000Z</time>
+    <name>Left on US-6 W / W North St</name>
+    <cmt>South Lima Road, Kendallville, IN</cmt>
+    <desc>South Lima Road, Kendallville, IN</desc>
+  </wpt>
+  <wpt lat="41.453114" lon="-85.370634">
+    <time>2025-06-12T16:37:26.000Z</time>
+    <name>Right on IN-9 North</name>
+    <cmt>SR 9, Orange, IN</cmt>
+    <desc>SR 9, Orange, IN</desc>
+  </wpt>
+  <wpt lat="41.797982" lon="-85.428431">
+    <time>2025-06-12T18:09:59.000Z</time>
+    <name>Right on US-12E / East Chicago Road</name>
+    <cmt>704 West Chicago Road, Sturgis, MI</cmt>
+    <desc>704 West Chicago Road, Sturgis, MI</desc>
+  </wpt>
+  <wpt lat="42.059171" lon="-84.220612">
+    <time>2025-06-12T20:28:51.000Z</time>
+    <name>Turn right on M50</name>
+    <cmt>Cambridge, MI</cmt>
+    <desc>Cambridge, MI</desc>
+  </wpt>
+  <wpt lat="41.930071" lon="-83.457592">
+    <time>2025-06-12T22:19:48.000Z</time>
+    <name>Turn right onto Fairgrounds Drive</name>
+    <cmt>Monroe, MI</cmt>
+    <desc>Monroe, MI</desc>
+  </wpt>
+  <wpt lat="41.929840" lon="-83.457904">
+    <time>2025-06-12T23:20:02.000Z</time>
+    <name>Monroe County Fairgrounds</name>
+    <cmt>Monroe, MI</cmt>
+    <desc>Monroe, MI</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <rte>
+    <name>Power Tour 2025 - Day 4 | Monroe County Fairgrounds</name>
+    <rtept lat="41.116309" lon="-85.122124">
+      <time>2025-06-12T13:00:00.000Z</time>
+      <name>Gate 1</name>
+      <cmt>Fort Wayne, IN</cmt>
+      <desc>Fort Wayne, IN</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+    <rtept lat="41.118000" lon="-85.149050">
+      <time>2025-06-12T14:02:53.000Z</time>
+      <name>Right on US-27N / Lima Rd</name>
+      <cmt>Lima Road, Fort Wayne, IN</cmt>
+      <desc>Lima Road, Fort Wayne, IN</desc>
+    </rtept>
+    <rtept lat="41.452158" lon="-85.282300">
+      <time>2025-06-12T15:32:04.000Z</time>
+      <name>Left on US-6 W / W North St</name>
+      <cmt>South Lima Road, Kendallville, IN</cmt>
+      <desc>South Lima Road, Kendallville, IN</desc>
+    </rtept>
+    <rtept lat="41.453114" lon="-85.370634">
+      <time>2025-06-12T16:37:26.000Z</time>
+      <name>Right on IN-9 North</name>
+      <cmt>SR 9, Orange, IN</cmt>
+      <desc>SR 9, Orange, IN</desc>
+    </rtept>
+    <rtept lat="41.797982" lon="-85.428431">
+      <time>2025-06-12T18:09:59.000Z</time>
+      <name>Right on US-12E / East Chicago Road</name>
+      <cmt>704 West Chicago Road, Sturgis, MI</cmt>
+      <desc>704 West Chicago Road, Sturgis, MI</desc>
+    </rtept>
+    <rtept lat="42.059171" lon="-84.220612">
+      <time>2025-06-12T20:28:51.000Z</time>
+      <name>Turn right on M50</name>
+      <cmt>Cambridge, MI</cmt>
+      <desc>Cambridge, MI</desc>
+    </rtept>
+    <rtept lat="41.930071" lon="-83.457592">
+      <time>2025-06-12T22:19:48.000Z</time>
+      <name>Turn right onto Fairgrounds Drive</name>
+      <cmt>Monroe, MI</cmt>
+      <desc>Monroe, MI</desc>
+    </rtept>
+    <rtept lat="41.929840" lon="-83.457904">
+      <time>2025-06-12T23:20:02.000Z</time>
+      <name>Monroe County Fairgrounds</name>
+      <cmt>Monroe, MI</cmt>
+      <desc>Monroe, MI</desc>
+      <sym>Flag, Blue</sym>
+    </rtept>
+  </rte>
+  <trk>
+  </trk>
+</gpx>

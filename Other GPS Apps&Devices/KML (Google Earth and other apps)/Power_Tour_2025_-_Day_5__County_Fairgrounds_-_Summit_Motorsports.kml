@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Power Tour 2025 - Day 5 | County Fairgrounds - Summit Motorsports Park</name>
+    <Placemark>
+      <name>Monroe County Fairgrounds</name>
+      <address>Monroe, MI</address>
+      <ExtendedData>
+        <Data name="icon">
+          <value>18</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-83.461605,41.930646</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Left on Lagrange Street</name>
+      <address>Toledo, OH</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>300000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-83.548286,41.698408</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Left on Navarre Avenue</name>
+      <address>Dearborn Avenue, Oregon, OH</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>300000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-83.491467,41.636629</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Exit 156 towards OH-60</name>
+      <address>Sassafras Drive, Vermilion, OH</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>300000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-82.370028,41.397634</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Right onto OH-60 South</name>
+      <address>Vermilion, OH</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>300000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-82.364739,41.396061</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Summit Motorsports Park</name>
+      <address>Norwalk, OH</address>
+      <ExtendedData>
+        <Data name="icon">
+          <value>19</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-82.545752,41.238977</coordinates>
+      </Point>
+    </Placemark>
+    <Folder>
+      <name>routes</name>
+      <Placemark>
+        <name>Power Tour 2025 - Day 5 | County Fairgrounds - Summit Motorsports Park</name>
+        <LineString>
+          <coordinates>-83.461605,41.930646 -83.548286,41.698408 -83.491467,41.636629 -82.370028,41.397634 -82.364739,41.396061 -82.397406,41.254796 -82.545752,41.238977</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>tracks</name>
+      <Placemark>
+        <LineString>
+          <coordinates></coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

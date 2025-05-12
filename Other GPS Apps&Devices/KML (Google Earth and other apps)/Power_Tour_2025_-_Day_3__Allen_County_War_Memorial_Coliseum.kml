@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Power Tour 2025 - Day 3 | Allen County War Memorial Coliseum</name>
+    <Placemark>
+      <name>Rt 66 Raceway - Gate 11</name>
+      <address>South Chicago Street, Jackson, IL</address>
+      <ExtendedData>
+        <Data name="icon">
+          <value>18</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-88.079154,41.459288</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Left on Manhattan/Arsenal Rd</name>
+      <address>IL 53, Jackson, IL</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-88.078742,41.429942</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Turn right on US-52E/W North St</name>
+      <address>Manhattan, IL</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-87.995772,41.431774</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Right on US-45S/US-52E</name>
+      <address>West Joliet Road, Peotone, IL</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-87.882172,41.352673</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Right on E 12000N Rd</name>
+      <address>Manteno, IL</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-87.879746,41.294670</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Right on N 18000E Rd / Stateline Rd</name>
+      <address>West Creek, IN</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-87.526717,41.298063</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Left onto 185th Ave</name>
+      <address>Yellowhead, IL</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-87.526722,41.283008</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Left on US-41N</name>
+      <address>West Creek, IN</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-87.468305,41.282714</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Right on West 181st Ave/IN-2</name>
+      <address>Wicker Avenue, West Creek, IN</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-87.468231,41.289990</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Left on US-231 North</name>
+      <address>West 1014 South, Boone, IN</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-87.199561,41.289282</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Right on E Sigler St/IN-8 East</name>
+      <address>Hebron, IN</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-87.199965,41.318595</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Left on US-421 North</name>
+      <address>West Main Street, La Crosse, IN</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-86.891440,41.317359</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Right on Lincoln Highway / US-30E</name>
+      <address>10011 West US Highway 30, Wanatah, IN</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-86.891216,41.433813</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Left on West Coliseum Blvd</name>
+      <address>West Coliseum Boulevard, Fort Wayne, IN</address>
+      <ExtendedData>
+        <Data name="duration">
+          <value>3600000</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-85.181559,41.117719</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Turn right into Gate 1 - Allen Co War Mem Coliseum</name>
+      <address>4000 Parnell Avenue, Fort Wayne, IN</address>
+      <ExtendedData>
+        <Data name="icon">
+          <value>19</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-85.122756,41.115170</coordinates>
+      </Point>
+    </Placemark>
+    <Folder>
+      <name>routes</name>
+      <Placemark>
+        <name>Power Tour 2025 - Day 3 | Allen County War Memorial Coliseum</name>
+        <LineString>
+          <coordinates>-88.079154,41.459288 -88.078742,41.429942 -87.995772,41.431774 -87.882172,41.352673 -87.879746,41.294670 -87.526717,41.298063 -87.526722,41.283008 -87.468305,41.282714 -87.468231,41.289990 -87.199561,41.289282 -87.199965,41.318595 -86.891440,41.317359 -86.891216,41.433813 -85.181559,41.117719 -85.122756,41.115170</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>tracks</name>
+      <Placemark>
+        <LineString>
+          <coordinates></coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
