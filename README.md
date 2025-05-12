@@ -1,6 +1,6 @@
 # Power Tour 2025 GPS Routes
-##
-# Pre-programmed waypoints for importing into navigation devices or software
+
+* Pre-programmed waypoints for importing into navigation devices or software
 ##
 # Recommended devices:
 ## Garmin DriveSmart 66
